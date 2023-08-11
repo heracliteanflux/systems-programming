@@ -125,3 +125,63 @@ int main () {
 	return 0;
 }
 ```
+
+### `prime_check.c`
+
+```
+gcc prime_check.c -o prime_check &&
+./prime_check
+```
+```
+Enter a number: 17
+Prime
+```
+
+```c
+#include <stdio.h>
+
+int main () {
+	int num, isPrime = 1;
+	printf("Enter a number: ");
+	scanf("%d", &num);
+  for (int i = 2; i <= num / 2; i++) {
+		if (num % i == 0) {
+			isPrime = 0;
+			break;
+		}
+	}
+	if (isPrime == 1) {
+		printf("Prime");
+	}
+	else {
+		printf("Not Prime");
+	}
+	return 0;
+}
+```
+
+#### `factorial.c`
+
+```
+gcc factorial.c -o factorial &&
+./factorial
+```
+```
+Enter a number: 25
+Factorial of 25 is 2076180480
+```
+
+```c
+#include <stdio.h>
+
+int main () {
+  int n, factorial = 1;
+	printf("Enter a number: ");
+	scanf("%d", &n);
+	for (int i = 1; i <= n; i++) {
+		factorial *= i;
+	}
+	printf("Factorial of %d is %d", n, factorial);
+	return 0;
+}
+```
