@@ -60,3 +60,39 @@ int main () {
 	return 0;
 }
 ```
+
+### `largest_of_three_numbers.c`
+
+```
+gcc largest_of_three_numbers.c -o largest_of_three_numbers &&
+./largest_of_three_numbers
+```
+```
+Enter the first number: 1
+Enter the second number: 2
+Enter the third number: 3
+The largest number is: 3
+```
+
+```c
+#include <stdio.h>
+
+int main () {
+	int num1, num2, num3, largest;
+	printf("Enter the first number: ");
+	scanf("%d", &num1);
+	printf("Enter the second number: ");
+	scanf("%d", &num2);
+	printf("Enter the third number: ");
+	scanf("%d", &num3);
+	largest = num1;
+	if (num2 > largest) {
+		largest = num2;
+	}
+	if (num3 > largest) {
+		largest = num3;
+	}
+	printf("The largest number is: %d", largest);
+	return 0;
+}
+```
