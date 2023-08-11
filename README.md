@@ -160,7 +160,7 @@ int main () {
 }
 ```
 
-#### `factorial.c`
+### `factorial.c`
 
 ```
 gcc factorial.c -o factorial &&
@@ -182,6 +182,98 @@ int main () {
 		factorial *= i;
 	}
 	printf("Factorial of %d is %d", n, factorial);
+	return 0;
+}
+```
+
+### `palindrome.c`
+
+```
+gcc palindrome.c -o palindrome &&
+./palindrome
+```
+```
+Enter a number: 123454321
+Palindrome
+```
+
+```c
+#include <stdio.h>
+
+int main () {
+	int num, reversedNum = 0, originalNum, remainder;
+	printf("Enter a number: ");
+	scanf("%d", &num);
+	originalNum = num;
+	while (num != 0) {
+		remainder   = num % 10;
+		reversedNum = reversedNum * 10 + remainder;
+		num /= 10;
+	}
+	if (originalNum == reversedNum) {
+		printf("Palindrome");
+	}
+	else {
+		printf("Not Palindrome");
+	}
+	return 0;
+}
+```
+
+### `sum_natural_numbers.c`
+
+```
+gcc sum_natural_numbers.c -o sum_natural_numbers &&
+./sum_natural_numbers
+```
+```
+Enter a number: 25
+The sum of natural numbersup to 25 is 325
+```
+
+```c
+#include <stdio.h>
+
+int main () {
+	int n, sum = 0;
+	printf("Enter a number: ");
+	scanf("%d", &n);
+	for (int i = 1; i <= n; i++) {
+		sum += i;
+	}
+	printf("The sum of natural numbersup to %d is %d", n, sum);
+	return 0;
+}
+```
+
+### `factorial_recursive.c`
+
+```
+gcc factorial_recursive.c -o factorial_recursive &&
+./factorial_recursive
+```
+```
+Enter a number: 25
+Factorial of 25 is 207618048
+```
+
+```c
+#include <stdio.h>
+
+int factorial (int n) {
+	if (n == 0) {
+		return 1;
+	}
+	else {
+		return n * factorial(n - 1);
+	}
+}
+
+int main () {
+	int num;
+	printf("Enter a number: ");
+	scanf("%d", &num);
+	printf("Factorial of %d is %d", num, factorial(num));
 	return 0;
 }
 ```
