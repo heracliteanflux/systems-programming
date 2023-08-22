@@ -2,7 +2,15 @@
 Exercises in the C programming language with an emphasis on systems.
 
 ### Resources
-* [[H](https://www.virtualbox.org/)] VirtualBox
+
+* [ [H](https://clang.llvm.org/) ][ [W](https://en.wikipedia.org/wiki/Clang) ] Clang
+* [ [H](https://gcc.gnu.org/) ][ [W](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) ] GCC
+* [ [H](https://www.sourceware.org/gdb/) ][ [W](https://en.wikipedia.org/wiki/GNU_Debugger) ] GDB
+* [ [H](https://valgrind.org/) ][ [W](https://en.wikipedia.org/wiki/Valgrind) ] Valgrind
+* [ [H](https://www.virtualbox.org/) ] VirtualBox
+
+freeCodeCamp
+* [ [Y](https://www.youtube.com/watch?v=KJgsSFOSQv0) ] freeCodeCamp. (15 Aug 2018). "C Programming Tutorial for Beginners". YouTube.
 
 ### Texts
 * Amini, Kamran. (2019). _Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C_. Packt.
