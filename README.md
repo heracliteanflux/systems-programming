@@ -61,10 +61,16 @@ freeCodeCamp
 
 * Gregg, Brendan. (2020). _Systems Performance: Enterprise and the Cloud_. 2nd Ed. Pearson.
 * Matthews, Suzanne J.; Tia Newhall, & Kevin C. Webb. (2022). _Dive Into Systems: A Gentle Introduction to Computer Systems_. [No Starch Press](https://nostarch.com/dive-systems).
-* Wetherall, David J. & Andrew S. Tanenbaum. (2010). _Computer Networks_. 5th Ed. Pearson.
 
 ### Networks
 
+* Chou, Eric et al. (2020). _Mastering Python Networking, 3rd Ed_. Packt.
 * Fall, Kevin R. & W. Richard Stevens. (2011). _TCP/IP Illustrated Vol I: The Protocols_. 2nd Ed. Addison-Wesley Professional.
+* Gilman, Evan & Doug Barth. (2017). _Zero Trust Networks: Building Secure Systems in Untrusted Networks_. O'Reilly.
+* Keshav, Srinivasan. (2012). _Mathematical Foundations of Computer Networking_. Addison-Wesley Professional.
 * Kozierok, Charles M. (2005). _TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference_. [No Starch Press](https://nostarch.com/tcpip.htm).
+* [ [H](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) ] Kurose, James & Keith Ross. (2016). _Computer Networking: A Top-Down Approach_. 8th Ed.
 * [ [G](https://github.com/oreilly-npa-book/examples/tree/v2) ] Oswalt et al. (2023). _Network Programmability and Automation: Skills for the Next-Generation Network Engineer_. O'Reilly.
+* [ [H](https://book.systemsapproach.org/) ] Peterson, Larry & Bruce Davie. (2021). _Computer Networks: A Systems Approach_. The Morgan Kaufmann Series in Networking.
+* Tanenbaum, Andrew S.; Nick Feamster; & David Wehterall. (2021). _Computer Networks_. 6th Ed. [Pearson](https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003188/9780137523214).
+* White, Russ & Ethan Banks. (2017). _Computer Networking Problems and Solutions: An Innovative Approach to Building Resilient, Modern Networks_. Pearson.
