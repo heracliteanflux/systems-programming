@@ -59,18 +59,25 @@ freeCodeCamp
 
 ### Systems
 
+* [ [H](https://pages.cs.wisc.edu/~remzi/OSTEP/) ] Arpaci-Dusseau, Remzi H. & Andrea C. Arpaci-Dusseau. _Operating Systems: Three Easy Pieces_.
 * Gregg, Brendan. (2020). _Systems Performance: Enterprise and the Cloud_. 2nd Ed. Pearson.
 * Matthews, Suzanne J.; Tia Newhall, & Kevin C. Webb. (2022). _Dive Into Systems: A Gentle Introduction to Computer Systems_. [No Starch Press](https://nostarch.com/dive-systems).
 
 ### Networks
 
-* Chou, Eric et al. (2020). _Mastering Python Networking, 3rd Ed_. Packt.
+* Chou, Eric. (2020). _Mastering Python Networking_. 3rd Ed. Packt.
+* [ [G](https://github.com/mpcollins/nstda_v2_examples) ][ [G](https://github.com/mpcollins/nsda_examples) ] Collins, Michael. (2017). _Network Security Through Data Analysis: From Data to Action_. 2nd Ed. O'Reilly.
 * Fall, Kevin R. & W. Richard Stevens. (2011). _TCP/IP Illustrated Vol I: The Protocols_. 2nd Ed. Addison-Wesley Professional.
+* Fettig, Abe & Jessica McKellar. (2013). _Twisted Network Programming Essentials: Event-Driven Network Programming with Python_. 2nd Ed. O'Reilly.
 * Gilman, Evan & Doug Barth. (2017). _Zero Trust Networks: Building Secure Systems in Untrusted Networks_. O'Reilly.
 * Keshav, Srinivasan. (2012). _Mathematical Foundations of Computer Networking_. Addison-Wesley Professional.
 * Kozierok, Charles M. (2005). _TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference_. [No Starch Press](https://nostarch.com/tcpip.htm).
 * [ [H](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) ] Kurose, James & Keith Ross. (2016). _Computer Networking: A Top-Down Approach_. 8th Ed.
-* [ [G](https://github.com/oreilly-npa-book/examples/tree/v2) ] Oswalt et al. (2023). _Network Programmability and Automation: Skills for the Next-Generation Network Engineer_. O'Reilly.
-* [ [H](https://book.systemsapproach.org/) ] Peterson, Larry & Bruce Davie. (2021). _Computer Networks: A Systems Approach_. The Morgan Kaufmann Series in Networking.
+* Liu, Cricket & Paul Albitz. _DNS and Bind: Help for System Administrators_. 5th Ed. O'Reilly.
+* Nadeau, Thomas D. & Ken Gray. (2013). _SDN Software Defined Networks: An Authoritative Review of Network Programmability Technologies_. O'Reilly.
+* [ [G](https://github.com/oreilly-npa-book/examples/tree/v2) ] Oswalt et al. (2023). _Network Programmability and Automation: Skills for the Next-Generation Network Engineer_. 2nd Ed. O'Reilly.
+* [ [H](https://www.systemsapproach.org) ][ [D](https://book.systemsapproach.org) ][ [G](https://github.com/SystemsApproach/book) ] Peterson, Larry & Bruce Davie. (2021). _Computer Networks: A Systems Approach_. The Morgan Kaufmann Series in Networking.
+* [ [H](https://www.systemsapproach.org) ][ [D](https://sdn.systemsapproach.org/index.html) ][ [G](https://github.com/SystemsApproach/SDN) ] Peterson, Larry et al. _Software-Defined Networks: A Systems Approach_.
+* Sanders, Chris. (2017). _Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems_. 3rd Ed. No Starch Press.
 * Tanenbaum, Andrew S.; Nick Feamster; & David Wehterall. (2021). _Computer Networks_. 6th Ed. [Pearson](https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003188/9780137523214).
 * White, Russ & Ethan Banks. (2017). _Computer Networking Problems and Solutions: An Innovative Approach to Building Resilient, Modern Networks_. Pearson.
