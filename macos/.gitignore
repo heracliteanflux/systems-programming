@@ -23,5 +23,6 @@
 !.gitignore
 !global.gitignore
 !.p10k.zsh
+!README.txt
 !.vimrc
 !.zshrc
