@@ -81,3 +81,93 @@ freeCodeCamp
 * Sanders, Chris. (2017). _Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems_. 3rd Ed. No Starch Press.
 * Tanenbaum, Andrew S.; Nick Feamster; & David Wehterall. (2021). _Computer Networks_. 6th Ed. [Pearson](https://www.pearson.com/en-us/subject-catalog/p/computer-networks/P200000003188/9780137523214).
 * White, Russ & Ethan Banks. (2017). _Computer Networking Problems and Solutions: An Innovative Approach to Building Resilient, Modern Networks_. Pearson.
+
+## Terms
+
+* ACK Acknowledgement [Wiki](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks))
+* Checksum [Wiki](https://en.wikipedia.org/wiki/Checksum)
+* Ethernet Flow Control [Wiki](https://en.wikipedia.org/wiki/Ethernet_flow_control)
+* Header [Wiki](https://en.wikipedia.org/wiki/Header_(computing))
+* NAK Negative Acknowledgement [Wiki](https://en.wikipedia.org/wiki/Acknowledgement_(data_networks))
+* Payload [Wiki](https://en.wikipedia.org/wiki/Payload_(computing))
+
+AXT Alien Crosstalk <br>
+ADC Analog-to-Digital Converter [Wiki](https://en.wikipedia.org/wiki/Analog-to-digital_converter) <br>
+Bandwidth <br>
+BER Bit Error Rate <br>
+Bluetooth 5.0, 5.1, 5.2 <br>
+BLE Bluetooth Low Energy <br>
+Bonjour <br>
+BGP Border Gateway Protocol <br>
+CMP Communications Multipurpose Plenum <br>
+CMR Communications Multipurpose Riser <br>
+Crosstalk <br>
+CRC Cyclic Redundancy Check <br>
+DAC Digital-to-Analog Converter [Wiki](https://en.wikipedia.org/wiki/Digital-to-analog_converter) <br>
+DNS Domain Name System <br>
+DHCP Dynamic Host Configuration Protocol <br>
+DNS Sinkhole [Wiki](https://en.wikipedia.org/wiki/DNS_sinkhole) <br>
+EMI Electromagnetic Interference <br>
+ELFEXT Equal Level FEXT <br>
+Ethernet <br>
+FEXT Far-End Crosstalk <br>
+FCS Frame Check Sequence <br>
+Gain [Wiki](https://en.wikipedia.org/wiki/Gain_(antenna)) <br>
+Higher-Order Modulation (1024-QAM) <br>
+Hosts File [Wiki](https://en.wikipedia.org/wiki/Hosts_(file)) <br>
+IF Intermediate Frequency [Wiki](https://en.wikipedia.org/wiki/Intermediate_frequency) <br>
+IP Internet Protocol <br>
+ISP Internet Service Provider <br>
+LAN Local Area Network (e.g., home or small business) <br>
+LTE Long Term Evolution <br>
+MCS Modulation and Coding Scheme <br>
+MU-MIMO Multi-User Multi-Input Multi-Output <br>
+mDNS Multicast DNS <br>
+NEXT Near-End Crosstalk [dB per foot] <br>
+NFC Near Field Communication <br>
+NAS Network-Attached Storage [Synology](https://www.synology.com/en-us/solution/what_is_nas) [Wiki](https://en.wikipedia.org/wiki/Network-attached_storage) <br>
+Nyquist Frequency [Wiki](https://en.wikipedia.org/wiki/Nyquist_frequency) <br>
+Nyquist-Shannon Sampling Theorem [Wiki](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem) <br>
+OFDMA Orthogonal Frequency-Division Multiple Access <br>
+PCI Peripheral Component Interconnect [Wiki](https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect) <br>
+PAN Personal Area Network (e.g., Mobile Hotspot) <br>
+Personal Cloud [Wiki](https://en.wikipedia.org/wiki/Personal_cloud) <br>
+PVC Polyvinyl Chloride <br>
+PSNEXT Power Sum NEXT <br>
+QoS Quality of Service <br>
+RF Radio Frequency <br>
+RSSI Received Signal Strength Indicator [Wiki](https://en.wikipedia.org/wiki/Received_signal_strength_indication) <br>
+Receiver <br>
+RFID <br>
+RJ Registered Jack <br>
+RPS Redundant Power Supply <br>
+Sampling [Wiki](https://en.wikipedia.org/wiki/Sampling_(signal_processing)) <br>
+Shannon-Hartley Theorem [Wiki](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem) <br>
+STP Shielded Twisted Pair <br>
+SNR Signal-to-Noise Ratio <br>
+SFP Small Form-Factor Pluggable [Wiki](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver) <br>
+SDN Software-Defined Networking <br>
+SAN Storage-Area Network [Wiki](https://en.wikipedia.org/wiki/Storage_area_network) <br>
+TCP/IP (IP Suite) <br>
+Throughput <br>
+Transceiver <br>
+TCP Transmission Control Protocol <br>
+Transmitter <br>
+TWT Target Wake Time <br>
+Ultra Wideband <br>
+UPS Uninterruptible Power Supply [Wiki](https://en.wikipedia.org/wiki/Uninterruptible_power_supply) <br>
+UPnP Universal Plug and Play <br>
+USB Universal Serial Bus [Wiki](https://en.wikipedia.org/wiki/USB) <br>
+UDP User Datagram Protocol <br>
+UTP Unshielded Twisted Pair <br>
+VLAN Virtual LAN <br>
+WAN Wide Area Network (e.g., the Internet) <br>
+WAN Failover <br>
+WiFi Wireless Fidelity <br>
+WiFi 6 (802.11ax) <br>
+WiFi 6E <br>
+WPA WiFi Protected Access <br>
+WSN Wireless Sensor Network [Wiki](https://en.wikipedia.org/wiki/Wireless_sensor_network) <br>
+Z-Wave <br>
+Zero-Configuration Networking <br>
+Zigbee <br>
