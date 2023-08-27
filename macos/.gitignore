@@ -1,0 +1,27 @@
+# ignore
+#  *  # everything
+# /*  # root files
+# /*/ # root directories???
+
+# ignore .config/gh/config.yml
+# /*                      # ignore everything in the root directory...
+# !/.config               # ...except directory `.config`
+# .config/*               # ignore everything in directory `.config`...
+# !/.config/gh            # ...except directory `gh`
+# .config/gh/*            # ignore everything in directory `gh`...
+# !/.config/gh/config.yml # ...except file `config.yml`
+/*
+!/.config
+.config/*
+!/.config/gh
+.config/gh/*
+!/.config/gh/config.yml
+
+# except
+!.condarc
+!.gitconfig
+!.gitignore
+!global.gitignore
+!.p10k.zsh
+!.vimrc
+!.zshrc
