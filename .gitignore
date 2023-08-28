@@ -1,4 +1,6 @@
 !macos
+!windows
+!*.ipynb
 
 ##### C
 
