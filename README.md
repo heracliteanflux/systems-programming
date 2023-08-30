@@ -12,6 +12,7 @@ Exercises in the C programming language with an emphasis on systems.
 
 freeCodeCamp
 * [ [Y](https://www.youtube.com/watch?v=KJgsSFOSQv0) ] freeCodeCamp. (15 Aug 2018). "C Programming Tutorial for Beginners". YouTube.
+* [ [Y](https://www.youtube.com/watch?v=sWbUDq4S6Y8) ] freeCodeCamp. (23 Feb 2023). "Introduction to Linux – Full Course for Beginners". YouTube.
 
 ## Texts
 
@@ -50,7 +51,7 @@ freeCodeCamp
 
 ### Unix
 
-* Stevens, W. Richard & Stephen A. Rago. (2013). _Advanced Programming in the UNIX Environment_. Addison-Wesley Professional.
+* [ [H](http://www.apuebook.com/) ][ [W](https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment) ] Stevens, W. Richard & Stephen A. Rago. (2013). _Advanced Programming in the UNIX Environment_. Addison-Wesley Professional.
 * Stevens, W. Richard; Bill Fenner; & Andrew M. Rudoff. (2003). _The Sockets Networking API: UNIX Network Programming Vol. I_. 3rd Ed. Addison-Wesley Professional.
 
 ### Bash
