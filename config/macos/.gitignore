@@ -22,6 +22,7 @@
 !.gitconfig
 !.gitignore
 !global.gitignore
+!macos.config
 !.p10k.zsh
 !README.md
 !.vimrc
