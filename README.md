@@ -73,7 +73,7 @@ freeCodeCamp
 * Gilman, Evan & Doug Barth. (2017). _Zero Trust Networks: Building Secure Systems in Untrusted Networks_. O'Reilly.
 * Keshav, Srinivasan. (2012). _Mathematical Foundations of Computer Networking_. Addison-Wesley Professional.
 * Kozierok, Charles M. (2005). _TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference_. [No Starch Press](https://nostarch.com/tcpip.htm).
-* [ [H](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) ] Kurose, James & Keith Ross. (2016). _Computer Networking: A Top-Down Approach_. 8th Ed.
+* [ [H](https://gaia.cs.umass.edu/kurose_ross/eighth.php) ] Kurose, James & Keith Ross. (2016). _Computer Networking: A Top-Down Approach_. 8th Ed. Pearson.
 * Liu, Cricket & Paul Albitz. _DNS and Bind: Help for System Administrators_. 5th Ed. O'Reilly.
 * Nadeau, Thomas D. & Ken Gray. (2013). _SDN Software Defined Networks: An Authoritative Review of Network Programmability Technologies_. O'Reilly.
 * [ [G](https://github.com/oreilly-npa-book/examples/tree/v2) ] Oswalt et al. (2023). _Network Programmability and Automation: Skills for the Next-Generation Network Engineer_. 2nd Ed. O'Reilly.

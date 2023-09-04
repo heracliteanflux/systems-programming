@@ -1,5 +1,4 @@
-!macos
-!windows
+!config
 !*.ipynb
 
 ##### C
