@@ -1,0 +1,55 @@
+{
+  "redhat.telemetry.enabled": false,
+  "telemetry.telemetryLevel": "off",
+
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.accessibilitySupport": "off",
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "'Hack NF'",
+  "editor.hover.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestions": {
+    "other": "off"
+  },
+  "editor.tabSize": 2,
+
+  "files.exclude": {
+      "**/.ipynb_checkpoints": true
+  },
+
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-18",
+      "path": "/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home",
+      "default": true
+    }
+  ],
+
+  "notebook.output.textLineLimit": 100,
+
+  "python.analysis.exclude": [
+    "**/__pycache__"
+  ],
+
+  "r.rpath.mac": "/usr/local/bin/R",
+  "r.rterm.mac": "/opt/homebrew/bin/radian",
+
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.explorerKind": "external",
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.fontFamily": "'MesloLGS NF'",
+  "terminal.integrated.inheritEnv": false,
+
+  "window.zoomLevel": 2,
+
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+  "workbench.settings.applyToAllProfiles": [
+    "terminal.integrated.fontFamily",
+    "editor.fontFamily",
+    "terminal.explorerKind",
+    "r.rpath.mac",
+    "r.rterm.mac"
+  ]
+}
